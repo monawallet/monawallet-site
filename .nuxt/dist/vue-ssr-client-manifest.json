@@ -1,5 +1,5 @@
 {
-  "publicPath": "/_nuxt/",
+  "publicPath": "/monawallet-site/_nuxt/",
   "all": [
     "fonts/fa-regular-400.d30b801.eot",
     "img/appstore.d0558d9.svg",
@@ -23,15 +23,15 @@
     "pages/terms.58fc9e72da8026a02bdd.js",
     "pages/privacy.2e1f03cc241b62a6c506.js",
     "vendor.bf124657569f3fbbdf97.js",
-    "app.cf031480544e011c87f7.js",
-    "manifest.9391facb53137c4114de.js",
+    "app.e58ea4459bba2ab92466.js",
+    "manifest.f39fed128af8ffdc9c3c.js",
     "LICENSES",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.9391facb53137c4114de.js",
+    "manifest.f39fed128af8ffdc9c3c.js",
     "vendor.bf124657569f3fbbdf97.js",
-    "app.cf031480544e011c87f7.js"
+    "app.e58ea4459bba2ab92466.js"
   ],
   "async": [
     "layouts/default.4670d62008884f6a9fae.js",

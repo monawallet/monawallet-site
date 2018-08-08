@@ -58,6 +58,12 @@ module.exports = {
     ]
   },
   /*
+  ** Router
+  */
+  router: {
+    base: '/monawallet-site/'
+  },
+  /*
   ** Build configuration
   */
   build: {
