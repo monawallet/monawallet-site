@@ -38,7 +38,6 @@ module.exports = {
   ** Genrate docs folder
   */
   generate: { 
-    dir : 'docs',
     routes: [
       {
         name: 'index',
@@ -56,12 +55,6 @@ module.exports = {
         component: 'pages/privacy.vue'
       }
     ]
-  },
-  /*
-  ** Router
-  */
-  router: {
-    base: '/monawallet-site/'
   },
   /*
   ** Build configuration
