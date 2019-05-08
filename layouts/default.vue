@@ -1,12 +1,12 @@
 <template>
   <div>
-  <header>
-  <Header />
-  </header>
-  <nuxt />
-  <footer class="footer">
-  <Footer />
-  </footer>
+    <header>
+      <Header />
+    </header>
+    <nuxt />
+    <footer class="footer">
+      <Footer />
+    </footer>
   </div>
 </template>
 
@@ -14,11 +14,11 @@
 import Header from '~/components/Header.vue'
 import Footer from '~/components/Footer.vue'
 export default {
-  name: 'navbar',
+  name: 'Navbar',
   components: {
     Header,
-    Footer
-  }
+    Footer,
+  },
 }
 </script>
 
