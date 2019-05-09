@@ -37,25 +37,7 @@ module.exports = {
   /*
   ** Genrate docs folder
   */
-  generate: { 
-    routes: [
-      {
-        name: 'index',
-        path: '/',
-        component: 'pages/index.vue',
-      },
-      {
-        name: 'terms',
-        path: '/terms',
-        component: 'pages/tesrms.vue',
-      },
-      {
-        name: 'privacy',
-        path: '/privacy',
-        component: 'pages/privacy.vue',
-      },
-    ],
-  },
+
   /*
   ** Build configuration
   */
