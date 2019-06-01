@@ -10,7 +10,10 @@
               <div id="description">
                 <p> 本アプリは「プロ生ちゃんアプリ開発支援プログラム」を利用し提供しています。<br>
                   アプリに関する一切のお問い合わせは合同会社プロ生ではなく、
-                  <a href="https://discordapp.com/invite/tQ2NpJ5">MonaWalletDevTeam</a>までお願いします。
+                  <a href="https://discordapp.com/invite/tQ2NpJ5">MonaWalletDevTeam</a>までお願いします。<br>
+                  <br>
+                  <br>
+                  本アプリではユーザの端末内にて生成した秘密鍵（リカバリーフレーズ）を使用してブロックチェーンに直接接続するクライアント型のウォレットです。<br>秘密鍵は当サービスのサーバなどには一切保存されません。<br>
                 </p>
                 <br>
               </div>
