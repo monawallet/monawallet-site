@@ -23,7 +23,7 @@ export default {
 </script>
 
 <style>
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 html, body {
     margin: 0;
