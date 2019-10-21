@@ -40,7 +40,9 @@ module.exports = {
   /*
   ** Genrate docs folder
   */
-
+  generate: {
+    dir: 'docs',
+  },
   /*
   ** Build configuration
   */
