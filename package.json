@@ -1,7 +1,7 @@
 {
   "name": "monawallet.github.io",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
+  "description": "MonaWalletSite",
   "author": "8chan <hachiro_doi316@yahoo.co.jp>",
   "private": true,
   "scripts": {
